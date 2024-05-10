@@ -21,4 +21,4 @@
 
 ## :link: Acesso ao projeto
 
-Você pode acessar o projeto final clicando aqui:  https://sant1ana.github.io/Pousada-Secreta/
+Você pode acessar o projeto final clicando aqui:  https://superb-lily-2f0db9.netlify.app
